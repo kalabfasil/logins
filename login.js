@@ -35,7 +35,7 @@ if (loginForm) {
         // Demo: Accept any non-empty credentials
         showToast('Login successful! Redirecting...', 'success');
         setTimeout(() => {
-            window.location.href = 'exam.html';
+            window.location.href = 'deploys-mqcx8zt9k-kalabs-projects-fc9ed27a.vercel.app';
         }, 1200);
     });
 }
